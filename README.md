@@ -1,4 +1,4 @@
-# 🏆 Intelligent Customer Sentiment Analysis with Hybrid AI
+# Intelligent Customer Sentiment Analysis with Hybrid AI
 
 <div align="center">
 
@@ -18,6 +18,7 @@
 ---
 
 ## 🎯 Project Overview
+Code: https://colab.research.google.com/drive/1zoovEvZFEstbM_nWiuNycEFlzTWOHM6B?usp=sharing
 
 An **innovative hybrid AI system** combining **IBM Granite Large Language Model** with intelligent rule-based processing to achieve enterprise-grade sentiment analysis while reducing API costs by **90%**.
 
@@ -493,9 +494,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- 📧 Email: arvin125dewo@gmail.com
+- 🌐 Portfolio: [https://portofolio-arvin-dewonoto.vercel.app/](https://portofolio-arvin-dewonoto.vercel.app/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/arvin-dewonoto-77157534b](https://www.linkedin.com/in/arvin-dewonoto-77157534b)
 
 ---
 
